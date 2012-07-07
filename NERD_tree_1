@@ -1,0 +1,51 @@
+" Press ? for help
+
+.. (up a dir)
+/home/ebertx/rsites/sample_app/
+▾ app/
+  ▾ assets/
+    ▸ images/
+    ▸ javascripts/
+    ▾ stylesheets/
+        application.css
+        custom.css.scss
+        static_pages.css.scss
+  ▾ controllers/
+      application_controller.rb
+      static_pages_controller.rb
+  ▸ helpers/
+  ▸ mailers/
+  ▸ models/
+  ▾ views/
+    ▸ layouts/
+    ▾ static_pages/
+        about.html.erb
+        contact.html.erb
+        help.html.erb
+        home.html.erb
+▾ config/
+  ▸ environments/
+  ▸ initializers/
+  ▸ locales/
+    application.rb
+    boot.rb
+    database.yml
+    environment.rb
+    routes.rb
+▸ db/
+▸ doc/
+▸ lib/
+▸ log/
+▸ public/
+▸ script/
+▾ spec/
+  ▾ requests/
+      static_pages_spec.rb
+    spec_helper.rb
+▸ tmp/
+▸ vendor/
+  config.ru
+  Gemfile
+  Gemfile.lock
+  Rakefile
+  README.md
